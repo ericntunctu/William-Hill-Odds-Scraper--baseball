@@ -11,5 +11,7 @@ If you want to learn how to use it (MLB), please see https://www.youtube.com/wat
 If you want to learn how to use it (NPB), please see https://www.youtube.com/watch?v=MA6RxF0XVEA. <br/> <br/>.
 If you want to learn how to use it (KBO), please see https://www.youtube.com/watch?v=7higrqq7KMY. <br/> <br/>.
 If you like this code, please subscribe this channel.<br/> <br/>.
-Our output file is an excel sheet. If you like to do the analysis in the python, then you can change code by yourself.
+Our output file is an excel sheet. If you like to do the analysis in the python, then you can change code by yourself. </br>
+# See demo or watch my youtube channel:
 
+![alt text](https://github.com/ericntunctu/William-Hill-Odds-Scraper--baseball/blob/master/DEMO.png)
